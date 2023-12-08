@@ -33,3 +33,4 @@ academic transcripts.
 - Instructor Dashboard: Tools for managing courses, grading assignments, taking attendance, and 
 communicating with students.
 - Admin : Tools for insert new Student, insert for new teacher with their best course.
+- Database : SQL 
